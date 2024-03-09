@@ -1,2 +1,0 @@
-# foxsense.github.io
-Idk
